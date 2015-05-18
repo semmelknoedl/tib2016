@@ -23,10 +23,6 @@
     <nav role="navigation">
         <ul id="footer-nav" role="list">
             <li role="listitem"><a href="${urls.about}" title="${i18n().menu_about}">${i18n().menu_about}</a></li>
-            <#if urls.contact??>
-                <li role="listitem"><a href="${urls.contact}" title="${i18n().menu_contactus}">${i18n().menu_contactus}</a></li>
-            </#if> 
-            <li role="listitem"><a href="http://www.vivoweb.org/support" target="blank" title="${i18n().menu_support}">${i18n().menu_support}</a></li>
             <li role="listitem"><a href="http://handbuch.io/w/VIVO-Handbuch" target="blank" title="Deutsches VIVO-Handbuch">Deutsches Handbuch</a></li>
 	
         </ul>
