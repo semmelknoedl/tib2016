@@ -650,7 +650,7 @@ ul#main-nav {
 }
 #main-nav li a.selected {
     color: #410000;
-    background: url(../images/selected-main-nav.jpg) left -1px no-repeat;
+    background: url(../images/selected-main-nav.png) left -1px no-repeat;
     margin-left: 18px;
 }
 /* WRAPPER CONTENT------>  */
